@@ -55,7 +55,7 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
 
 ---
 
-#### Added aliases for *abc xyz* user:
+#### Added aliases for `abc xyz` user:
 
 <img width="1360" height="641" alt="Image" src="https://github.com/user-attachments/assets/4dc58bc8-f2bc-4abd-a60d-67ce615b4874" />
 <img width="1360" height="632" alt="Image" src="https://github.com/user-attachments/assets/13254b40-eb9b-4d80-82d8-0e5ecbcc4c62" />
