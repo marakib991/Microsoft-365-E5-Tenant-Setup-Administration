@@ -1,7 +1,6 @@
 # Microsoft 365 E5 Tenant Setup & Administration
 
 This project documents the setup and configuration of a Microsoft 365 E5 tenant, showcasing skills in **identity management, security hardening, mailbox administration, SharePoint provisioning, and compliance enforcement**.  
-It serves as a portfolio project to demonstrate practical IT support and systems administration expertise.
 
 ---
 
