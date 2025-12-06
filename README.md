@@ -17,23 +17,23 @@ It serves as a portfolio project to demonstrate practical IT support and systems
 ## Steps Performed
 
 ### 1. Identity & User Management
-- Created new users and added multiple accounts.
+- **Created new users and added multiple accounts:** From **active users**, new users were created and assigned a license for each user. Additionally, the **Helpdesk** user was given **helpdesk administrator role access**.
   ---
   <img width="1022" height="577" alt="Image" src="https://github.com/user-attachments/assets/31e03114-d8c1-4c4a-a89d-ede7c7e87427" />
-<img width="887" height="557" alt="Image" src="https://github.com/user-attachments/assets/f857bf9f-7faa-4351-8c67-97cc60aba88e" />
-<img width="971" height="580" alt="Image" src="https://github.com/user-attachments/assets/d548f565-743b-4ee3-ac3d-c0dc5a8f2084" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/7d4ec5ba-f527-4e5a-baae-c463476e0537" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/33ca350a-5753-4836-beb0-b35e58a4d3ce" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/c04d2f07-22dc-42f4-a39d-4cc9fb950653" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/a54f7b5b-9e3f-4ff3-a3fb-ccbed0d46875" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/d9f15d7c-034c-4fe3-985a-13d3d9b7cc40" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/95cebba1-5d99-4729-a186-fec285af092a" />
-<img width="1554" height="779" alt="Image" src="https://github.com/user-attachments/assets/725a83fe-ffff-424a-820d-0d9c059d9898" />
-<img width="938" height="579" alt="Image" src="https://github.com/user-attachments/assets/1ebc44c3-fe73-4e08-a233-0241a3e3781d" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/c8d5ae2f-9c8a-487b-a850-f1a43bacf038" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/f8286e57-4ac1-476e-80d5-5095d578e0a2" />
-<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/bf889233-3224-4f78-b324-8ffae3e834ca" />
-<img width="1554" height="774" alt="Image" src="https://github.com/user-attachments/assets/3e670d7b-d134-4515-9bcd-bf37542d6f61" />
+  <img width="887" height="557" alt="Image" src="https://github.com/user-attachments/assets/f857bf9f-7faa-4351-8c67-97cc60aba88e" />
+  <img width="971" height="580" alt="Image" src="https://github.com/user-attachments/assets/d548f565-743b-4ee3-ac3d-c0dc5a8f2084" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/7d4ec5ba-f527-4e5a-baae-c463476e0537" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/33ca350a-5753-4836-beb0-b35e58a4d3ce" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/c04d2f07-22dc-42f4-a39d-4cc9fb950653" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/a54f7b5b-9e3f-4ff3-a3fb-ccbed0d46875" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/d9f15d7c-034c-4fe3-985a-13d3d9b7cc40" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/95cebba1-5d99-4729-a186-fec285af092a" />
+  <img width="1554" height="779" alt="Image" src="https://github.com/user-attachments/assets/725a83fe-ffff-424a-820d-0d9c059d9898" />
+  <img width="938" height="579" alt="Image" src="https://github.com/user-attachments/assets/1ebc44c3-fe73-4e08-a233-0241a3e3781d" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/c8d5ae2f-9c8a-487b-a850-f1a43bacf038" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/f8286e57-4ac1-476e-80d5-5095d578e0a2" />
+  <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/bf889233-3224-4f78-b324-8ffae3e834ca" />
+  <img width="1554" height="774" alt="Image" src="https://github.com/user-attachments/assets/3e670d7b-d134-4515-9bcd-bf37542d6f61" />
   ---
 - Enabled **Multi-Factor Authentication (MFA)**, switching from *Disabled* to *Microsoft Managed*.
 - Configured **SMS authentication** for all users.
