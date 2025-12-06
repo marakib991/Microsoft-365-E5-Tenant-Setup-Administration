@@ -40,7 +40,22 @@ From **active users**, new users were created and assigned a license for each us
 
 ---
 
-- Enabled **Multi-Factor Authentication (MFA)**, switching from *Disabled* to *Microsoft Managed*.
+#### Enabled **Multi-Factor Authentication (MFA)**: 
+
+MFA was turned on for all users and switched to *enable (legacy mode)* from *Microsoft Managed*. Also, the *lockout threshold* was set to 10, and the **SMS** authentication method policy was enabled for users' sign-in.
+  ---
+<img width="1268" height="615" alt="Image" src="https://github.com/user-attachments/assets/6e001642-e8a1-4922-9188-46f1dc29fbba" />
+<img width="1167" height="881" alt="Image" src="https://github.com/user-attachments/assets/eb1cc7d8-e3b8-4d80-bbcc-e1a9619f80b8" />
+<img width="1372" height="765" alt="Image" src="https://github.com/user-attachments/assets/7226f6a6-94e8-4ae9-9d04-18e8f57d9364" />
+<img width="1410" height="761" alt="Image" src="https://github.com/user-attachments/assets/08f344e3-caad-4b19-bb00-74c2190c750c" />
+<img width="1554" height="661" alt="Image" src="https://github.com/user-attachments/assets/7dc9b381-f32e-431b-a0fc-632ab339880a" />
+<img width="1554" height="783" alt="Image" src="https://github.com/user-attachments/assets/6001ac2a-ec14-4585-b07e-42c5b75ffcf5" />
+<img width="1554" height="628" alt="Image" src="https://github.com/user-attachments/assets/ded2a74d-86ae-4160-a8bb-eb2e110324d3" />
+<img width="1554" height="659" alt="Image" src="https://github.com/user-attachments/assets/86f5f686-8885-459f-a5d9-625db708c959" />
+<img width="1554" height="647" alt="Image" src="https://github.com/user-attachments/assets/54121598-6e30-4da8-82b8-fbcbe7a39daf" />
+
+---
+
 - Configured **SMS authentication** for all users.
 - Added aliases for specific users (e.g., `abc xyz`).
 - Added contracts information to user profiles (e.g., *Mohammad Abdur Rakib*).
