@@ -57,8 +57,14 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
 
 ---
 
-#### Added aliases for specific users (e.g., `abc xyz`).
+#### Added aliases for *abc xyz* user:
 
+---
+<img width="1360" height="641" alt="Image" src="https://github.com/user-attachments/assets/4dc58bc8-f2bc-4abd-a60d-67ce615b4874" />
+<img width="1360" height="632" alt="Image" src="https://github.com/user-attachments/assets/13254b40-eb9b-4d80-82d8-0e5ecbcc4c62" />
+<img width="1360" height="616" alt="Image" src="https://github.com/user-attachments/assets/0a44a51e-ea0e-4608-869a-068d24d1b482" />
+
+---
 
 #### Added contracts information to user profiles (e.g., *Mohammad Abdur Rakib*).
 
