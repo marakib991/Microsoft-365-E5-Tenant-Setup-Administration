@@ -64,9 +64,13 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
 
 
 ---
+
 ### 2. Group Administration
-#### Created an **IT group** with email `itsupport@mar101.onmicrosoft.com`.
-___
+
+#### Created an **IT group**:
+
+Navigated through the **MS365 admin center** to *Active teams & groups* and created a new group with email `itsupport@mar101.onmicrosoft.com` and kept it *public*.
+
 ---
 <img width="1554" height="823" alt="Image" src="https://github.com/user-attachments/assets/5c2f7ad3-addb-4913-9b2a-4ebc44ec677a" />
 <img width="1224" height="667" alt="Image" src="https://github.com/user-attachments/assets/c396da4d-5b4a-4b3c-8828-38747e19a468" />
