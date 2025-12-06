@@ -17,6 +17,7 @@ It serves as a portfolio project to demonstrate practical IT support and systems
 ## Steps Performed
 
 ### 1. Identity & User Management
+
 - **Created new users and added multiple accounts:** From **active users**, new users were created and assigned a license for each user. Additionally, the **Helpdesk** user was given **helpdesk administrator role access**.
   ---
   <img width="1022" height="577" alt="Image" src="https://github.com/user-attachments/assets/31e03114-d8c1-4c4a-a89d-ede7c7e87427" />
@@ -34,7 +35,7 @@ It serves as a portfolio project to demonstrate practical IT support and systems
   <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/f8286e57-4ac1-476e-80d5-5095d578e0a2" />
   <img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/bf889233-3224-4f78-b324-8ffae3e834ca" />
   <img width="1554" height="774" alt="Image" src="https://github.com/user-attachments/assets/3e670d7b-d134-4515-9bcd-bf37542d6f61" />
-  ---
+---
 - Enabled **Multi-Factor Authentication (MFA)**, switching from *Disabled* to *Microsoft Managed*.
 - Configured **SMS authentication** for all users.
 - Added aliases for specific users (e.g., `abc xyz`).
