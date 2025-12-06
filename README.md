@@ -40,9 +40,10 @@ From **active users**, new users were created and assigned a license for each us
 
 ---
 
-#### Enabled **Multi-Factor Authentication (MFA)**: 
+#### Enabled **Multi-Factor Authentication (MFA)** and **SMS** Authentication: 
 
 MFA was turned on for all users and switched to *enable (legacy mode)* from *Microsoft Managed*. Also, the *lockout threshold* was set to 10, and the **SMS** authentication method policy was enabled for users' sign-in.
+
   ---
 <img width="1268" height="615" alt="Image" src="https://github.com/user-attachments/assets/6e001642-e8a1-4922-9188-46f1dc29fbba" />
 <img width="1167" height="881" alt="Image" src="https://github.com/user-attachments/assets/eb1cc7d8-e3b8-4d80-bbcc-e1a9619f80b8" />
@@ -56,15 +57,33 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
 
 ---
 
-- Configured **SMS authentication** for all users.
-- Added aliases for specific users (e.g., `abc xyz`).
-- Added contracts information to user profiles (e.g., *Mohammad Abdur Rakib*).
+#### Added aliases for specific users (e.g., `abc xyz`).
 
+
+#### Added contracts information to user profiles (e.g., *Mohammad Abdur Rakib*).
+
+
+---
 ### 2. Group Administration
-- Created an **IT group** with email `itsupport@mar101.onmicrosoft.com`.
+#### Created an **IT group** with email `itsupport@mar101.onmicrosoft.com`.
+___
+---
+<img width="1554" height="823" alt="Image" src="https://github.com/user-attachments/assets/5c2f7ad3-addb-4913-9b2a-4ebc44ec677a" />
+<img width="1224" height="667" alt="Image" src="https://github.com/user-attachments/assets/c396da4d-5b4a-4b3c-8828-38747e19a468" />
+<img width="1368" height="745" alt="Image" src="https://github.com/user-attachments/assets/831eae46-b4f2-47b8-b10e-cd1e84cb9328" />
+<img width="1262" height="744" alt="Image" src="https://github.com/user-attachments/assets/f002a055-af1c-4be6-aa22-c836bb42c438" />
+<img width="1267" height="563" alt="Image" src="https://github.com/user-attachments/assets/98cf7d50-d279-4eca-9eb7-e632042ea79c" />
+<img width="1554" height="1120" alt="Image" src="https://github.com/user-attachments/assets/21be4028-5ea5-451a-9160-b07672e29076" />
+<img width="1320" height="585" alt="Image" src="https://github.com/user-attachments/assets/5b60d755-bd7c-4699-a323-97084123f791" />
+<img width="1259" height="665" alt="Image" src="https://github.com/user-attachments/assets/503a4608-8af9-4769-813d-c3894297795f" />
+<img width="1548" height="943" alt="Image" src="https://github.com/user-attachments/assets/84eb766a-57cc-4307-8d7f-a05c5f6c171f" />
+<img width="1548" height="726" alt="Image" src="https://github.com/user-attachments/assets/536657dc-e438-4506-bb43-d0578468af9e" />
+
+---
 - Updated group email to `it@mar101.onmicrosoft.com`.
 - Deleted and restored the default **All Company** group.
 
+---
 ### 3. Mailbox Configuration
 - Created a **shared mailbox** `itsupport@mar101.onmicrosoft.com`.
 - Added members (`abc xyz`, `helpdesk`) to the shared mailbox.
@@ -75,9 +94,13 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
   - Copy on behalf
 - Granted **Send on Behalf permissions** to admin users.
 
+  ---
+
 ### 4. SharePoint Administration
 - Created a **SharePoint site** named `itsupport`.
 - Added members and configured permissions/restrictions.
+
+  ---
 
 ### 5. Security & Compliance
 - Created a **Data Loss Prevention (DLP) policy**:  
@@ -94,6 +117,4 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
 - SharePoint site provisioning
 - Compliance and DLP policy creation
 - Troubleshooting and documentation best practices
-
----
 
