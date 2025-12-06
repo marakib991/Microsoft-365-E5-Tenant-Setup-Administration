@@ -21,7 +21,6 @@ This project documents the setup and configuration of a Microsoft 365 E5 tenant,
 
 From **active users**, new users were created and assigned a license for each user. Additionally, the **Helpdesk** user was given **helpdesk administrator role access**.
 
-  ---
   <img width="1022" height="577" alt="Image" src="https://github.com/user-attachments/assets/31e03114-d8c1-4c4a-a89d-ede7c7e87427" />
   <img width="887" height="557" alt="Image" src="https://github.com/user-attachments/assets/f857bf9f-7faa-4351-8c67-97cc60aba88e" />
   <img width="971" height="580" alt="Image" src="https://github.com/user-attachments/assets/d548f565-743b-4ee3-ac3d-c0dc5a8f2084" />
@@ -44,7 +43,6 @@ From **active users**, new users were created and assigned a license for each us
 
 MFA was turned on for all users and switched to *enable (legacy mode)* from *Microsoft Managed*. Also, the *lockout threshold* was set to 10, and the **SMS** authentication method policy was enabled for users' sign-in.
 
-  ---
 <img width="1268" height="615" alt="Image" src="https://github.com/user-attachments/assets/6e001642-e8a1-4922-9188-46f1dc29fbba" />
 <img width="1167" height="881" alt="Image" src="https://github.com/user-attachments/assets/eb1cc7d8-e3b8-4d80-bbcc-e1a9619f80b8" />
 <img width="1372" height="765" alt="Image" src="https://github.com/user-attachments/assets/7226f6a6-94e8-4ae9-9d04-18e8f57d9364" />
@@ -59,7 +57,6 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
 
 #### Added aliases for *abc xyz* user:
 
----
 <img width="1360" height="641" alt="Image" src="https://github.com/user-attachments/assets/4dc58bc8-f2bc-4abd-a60d-67ce615b4874" />
 <img width="1360" height="632" alt="Image" src="https://github.com/user-attachments/assets/13254b40-eb9b-4d80-82d8-0e5ecbcc4c62" />
 <img width="1360" height="616" alt="Image" src="https://github.com/user-attachments/assets/0a44a51e-ea0e-4608-869a-068d24d1b482" />
@@ -77,7 +74,6 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
 
 Navigated through the **MS365 admin center** to *Active teams & groups* and created a new group with email `itsupport@mar101.onmicrosoft.com` and kept it *public*.
 
----
 <img width="1554" height="823" alt="Image" src="https://github.com/user-attachments/assets/5c2f7ad3-addb-4913-9b2a-4ebc44ec677a" />
 <img width="1224" height="667" alt="Image" src="https://github.com/user-attachments/assets/c396da4d-5b4a-4b3c-8828-38747e19a468" />
 <img width="1368" height="745" alt="Image" src="https://github.com/user-attachments/assets/831eae46-b4f2-47b8-b10e-cd1e84cb9328" />
