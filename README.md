@@ -250,12 +250,4 @@ Navigated through the **SharePoint admin center** to change the advanced **Share
 
 ---
 
-## Skills Demonstrated
-- Microsoft 365 E5 administration
-- Identity and access management
-- Multi-Factor Authentication (MFA) configuration
-- Group and mailbox administration
-- SharePoint site provisioning
-- Compliance and DLP policy creation
-- Troubleshooting and documentation best practices
 
