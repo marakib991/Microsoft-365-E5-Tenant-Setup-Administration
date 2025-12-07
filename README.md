@@ -166,7 +166,7 @@ As `itsupport@mar101.onmicrosoft.com` email has already been used for the `IT gr
 
 ---
 
-#### Granted **Send on Behalf permissions** to admin users:
+#### Granted **send on behalf permissions** to admin users:
 
 <img width="1220" height="581" alt="Image" src="https://github.com/user-attachments/assets/4b078ef8-b882-4127-aab4-24c6b6c4f4ce" />
 <img width="948" height="517" alt="Image" src="https://github.com/user-attachments/assets/b4edcf86-15c4-41d4-963e-661bc8bece8b" />
@@ -175,6 +175,7 @@ As `itsupport@mar101.onmicrosoft.com` email has already been used for the `IT gr
   ---
 
 ### 4. SharePoint Administration
+
 #### Created a **SharePoint site** named `itsupport2`:
 
 Created a new **SharePoint site** with the **IT Helpdesk** template and added users.
@@ -191,22 +192,24 @@ Created a new **SharePoint site** with the **IT Helpdesk** template and added us
 
 ---
 
-#### Reviewed and configured permissions/restrictions.
-
-Reviewed the initial user permissions.
+#### Reviewed the initial user permissions:
 
 <img width="1302" height="565" alt="Image" src="https://github.com/user-attachments/assets/b5fe7d03-5868-49d4-a3e0-d0c20305664a" />
 <img width="957" height="656" alt="Image" src="https://github.com/user-attachments/assets/83513e6f-85c6-40a7-9f0b-502cfe7bcfda" />
 <img width="1134" height="567" alt="Image" src="https://github.com/user-attachments/assets/29cabc19-2521-45e4-b172-a7c32a855ffd" />
 
   ---
-Changed the initial site sharing settings from the **SharePoint site**.
+  
+#### Changed the initial site sharing settings from the **SharePoint site** page:
 
 <img width="1298" height="446" alt="Image" src="https://github.com/user-attachments/assets/fa6773d1-4aa8-4507-b284-a7286c00728f" />
 <img width="689" height="544" alt="Image" src="https://github.com/user-attachments/assets/e4194250-f1fd-4301-97d0-152abc2a2d34" />
 <img width="954" height="752" alt="Image" src="https://github.com/user-attachments/assets/954bcbd5-7110-4438-b9ce-d1b77205b7b1" />
 
 ---
+
+#### Configure **SharePoint site** and **OneDrive** policy:
+
 Navigated through the **SharePoint admin center** to change the advanced **SharePoint site** and **OneDrive** sharing policy, so that only people from the organization can share the data from **OneDrive**. Also, modified the guest access policy and verification code reauthentication policy.
 
 <img width="915" height="641" alt="Image" src="https://github.com/user-attachments/assets/e44ba7f2-4deb-43a0-8283-30af72ca1ac9" />
