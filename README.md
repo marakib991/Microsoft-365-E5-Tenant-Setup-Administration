@@ -139,20 +139,86 @@ As `itsupport@mar101.onmicrosoft.com` email has already been used for the `IT gr
 
 ---
 
-- Configured **email forwarding** for `ceo@mar101.onmicrosoft.com`.
-- Set **automatic replies** with different messages for internal vs. external personnel.
-- Adjusted **Sent Items settings**:
-  - Copy to mailbox
-  - Copy on behalf
-- Granted **Send on Behalf permissions** to admin users.
+#### Configured **email forwarding** for `ceo@mar101.onmicrosoft.com`:
+
+<img width="1034" height="620" alt="Image" src="https://github.com/user-attachments/assets/a7575e65-0afd-4bf3-9c7a-4fa50d61c0bb" />
+<img width="1360" height="685" alt="Image" src="https://github.com/user-attachments/assets/55c23e3c-0044-4f3e-9570-06f9f1060fec" />
+<img width="1289" height="560" alt="Image" src="https://github.com/user-attachments/assets/50b00382-6aaa-452b-bc91-61dcb61e38f4" />
+<img width="1099" height="596" alt="Image" src="https://github.com/user-attachments/assets/8913c565-f736-4340-afea-86646bc77115" />
+
+---
+
+#### Set **automatic replies** with different messages for internal vs. external personnel:
+
+<img width="1186" height="646" alt="Image" src="https://github.com/user-attachments/assets/415a5d50-6d57-4867-835f-965f8ace3ec2" />
+<img width="1248" height="710" alt="Image" src="https://github.com/user-attachments/assets/6f522842-4c5b-43bc-9e23-d1eb8e75b578" />
+<img width="1208" height="638" alt="Image" src="https://github.com/user-attachments/assets/970e1a13-e113-4e3a-bbb1-556fd91e610f" />
+
+---
+
+#### Adjusted **Sent Items settings**:
+  - Copy to mailbox was enabled
+  - Copy on behalf was enabled
+
+<img width="1002" height="560" alt="Image" src="https://github.com/user-attachments/assets/f90bc191-5ea3-4700-9d9a-8a28c1b0e0da" />
+<img width="1103" height="510" alt="Image" src="https://github.com/user-attachments/assets/fea1c5c1-075b-45da-80d5-e2d3daea9cca" />
+<img width="814" height="484" alt="Image" src="https://github.com/user-attachments/assets/895c66e1-64af-44cc-8825-c2178c79b2db" />
+
+---
+
+#### Granted **Send on Behalf permissions** to admin users:
+
+<img width="1220" height="581" alt="Image" src="https://github.com/user-attachments/assets/4b078ef8-b882-4127-aab4-24c6b6c4f4ce" />
+<img width="948" height="517" alt="Image" src="https://github.com/user-attachments/assets/b4edcf86-15c4-41d4-963e-661bc8bece8b" />
+<img width="929" height="548" alt="Image" src="https://github.com/user-attachments/assets/6c740107-ec21-419a-9737-35837f145caf" />
 
   ---
 
 ### 4. SharePoint Administration
-- Created a **SharePoint site** named `itsupport`.
-- Added members and configured permissions/restrictions.
+#### Created a **SharePoint site** named `itsupport2`:
+
+Created a new **SharePoint site** with the **IT Helpdesk** template and added users.
+
+<img width="919" height="522" alt="Image" src="https://github.com/user-attachments/assets/6b672543-1db1-4db0-b6c2-1b7abb967d9d" />
+<img width="945" height="495" alt="Image" src="https://github.com/user-attachments/assets/7c0af2ce-c057-4e3a-a585-babf809a1112" />
+<img width="1352" height="685" alt="Image" src="https://github.com/user-attachments/assets/05978e3e-5d75-4a80-b270-4a91d31bbd45" />
+<img width="1333" height="753" alt="Image" src="https://github.com/user-attachments/assets/8008de05-c851-4480-89e7-dbf4b1f7304c" />
+<img width="1321" height="762" alt="Image" src="https://github.com/user-attachments/assets/0448e63c-2331-4f1e-8f40-877a5348a4c3" />
+<img width="1298" height="771" alt="Image" src="https://github.com/user-attachments/assets/47a3d706-37df-4869-876a-139dacb39d69" />
+<img width="1252" height="758" alt="Image" src="https://github.com/user-attachments/assets/0e895aed-ef6f-4264-8bcc-04882917efdc" />
+<img width="1274" height="762" alt="Image" src="https://github.com/user-attachments/assets/9e172c71-86e0-44cc-b468-01c27c42f3f5" />
+<img width="1360" height="750" alt="Image" src="https://github.com/user-attachments/assets/bbc96c70-06b8-41a7-9248-89cab48209b2" />
+
+---
+
+#### Reviewed and configured permissions/restrictions.
+
+Reviewed the initial user permissions.
+
+<img width="1302" height="565" alt="Image" src="https://github.com/user-attachments/assets/b5fe7d03-5868-49d4-a3e0-d0c20305664a" />
+<img width="957" height="656" alt="Image" src="https://github.com/user-attachments/assets/83513e6f-85c6-40a7-9f0b-502cfe7bcfda" />
+<img width="1134" height="567" alt="Image" src="https://github.com/user-attachments/assets/29cabc19-2521-45e4-b172-a7c32a855ffd" />
 
   ---
+Changed the initial site sharing settings from the **SharePoint site**.
+
+<img width="1298" height="446" alt="Image" src="https://github.com/user-attachments/assets/fa6773d1-4aa8-4507-b284-a7286c00728f" />
+<img width="689" height="544" alt="Image" src="https://github.com/user-attachments/assets/e4194250-f1fd-4301-97d0-152abc2a2d34" />
+<img width="954" height="752" alt="Image" src="https://github.com/user-attachments/assets/954bcbd5-7110-4438-b9ce-d1b77205b7b1" />
+
+---
+Navigated through the **SharePoint admin center** to change the advanced **SharePoint site** and **OneDrive** sharing policy, so that only people from the organization can share the data from **OneDrive**. Also, modified the guest access policy and verification code reauthentication policy.
+
+<img width="915" height="641" alt="Image" src="https://github.com/user-attachments/assets/e44ba7f2-4deb-43a0-8283-30af72ca1ac9" />
+<img width="927" height="553" alt="Image" src="https://github.com/user-attachments/assets/84ee922e-2c8f-483f-bbac-b67b095d2cce" />
+<img width="1210" height="668" alt="Image" src="https://github.com/user-attachments/assets/8c996b03-3b5e-4e38-9ce4-0e66cb518dd2" />
+<img width="1128" height="682" alt="Image" src="https://github.com/user-attachments/assets/985d50c9-8c2e-4668-837d-64201e10ba04" />
+<img width="1066" height="610" alt="Image" src="https://github.com/user-attachments/assets/22c1d7b2-2fc7-43c1-8839-48c55e9cc092" />
+<img width="1113" height="550" alt="Image" src="https://github.com/user-attachments/assets/c67d21a3-2411-45cf-89e1-35004d196837" />
+<img width="1157" height="745" alt="Image" src="https://github.com/user-attachments/assets/965d025c-0079-4a18-b52e-f9fb64b11ff4" />
+<img width="977" height="669" alt="Image" src="https://github.com/user-attachments/assets/7f94655d-3192-4442-bf42-420930743089" />
+
+---
 
 ### 5. Security & Compliance
 - Created a **Data Loss Prevention (DLP) policy**:  
