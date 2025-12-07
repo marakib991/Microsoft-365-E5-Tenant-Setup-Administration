@@ -39,9 +39,9 @@ From **active users**, new users were created and assigned a license for each us
 
 ---
 
-#### Enabled **Multi-Factor Authentication (MFA)** and **SMS** Authentication: 
+#### Enabled **Multi-Factor Authentication (MFA)** legacy policy and **SMS** Authentication policy: 
 
-MFA was turned on for all users and switched to *enable (legacy mode)* from *Microsoft Managed*. Also, the *lockout threshold* was set to 10, and the **SMS** authentication method policy was enabled for users' sign-in.
+MFA policy was switched to *enable (legacy mode)* from *Microsoft Managed*. Also, the *lockout threshold* was set to 10, and the **SMS** authentication method policy was enabled for users' sign-in.
 
 <img width="1268" height="615" alt="Image" src="https://github.com/user-attachments/assets/6e001642-e8a1-4922-9188-46f1dc29fbba" />
 <img width="1167" height="881" alt="Image" src="https://github.com/user-attachments/assets/eb1cc7d8-e3b8-4d80-bbcc-e1a9619f80b8" />
@@ -225,9 +225,26 @@ Navigated through the **SharePoint admin center** to change the advanced **Share
 
 ### 5. Security & Compliance
 
+#### **Multi-Factor Authentication (MFA)** was turned on and enforced on all users:
+
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/a3bc6dfa-6ba9-48b9-9685-b4d0c6762b4c" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/c9e59fec-85ba-4618-a8ba-b2281a4b1e87" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/d015c607-3a57-4b36-8925-e9301adefb6b" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/69794a8c-ef2f-4f71-a567-90128ad6b479" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/2ab7028e-dea0-42b5-8643-5a0ab88f3833" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/6e389896-bf3a-4297-a312-bf7a4af4c1db" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/218501a5-f50f-4a83-983c-6bbe98914bb8" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/edbac0bd-9a5e-4235-9192-fbb81c89e116" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/f055cbaf-cc9b-41e9-b7a8-d2b25bfbd59f" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/b95d00a0-5786-4921-99f2-244fd3c44999" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/9d99ea40-cd80-4284-a067-6353b18724ba" />
+<img width="1362" height="840" alt="Image" src="https://github.com/user-attachments/assets/23fee315-a268-4249-aeea-c940540de93b" />
+
+---
+
 #### Created a **Data Loss Prevention (DLP) policy**:  
-  - **Canada Personal Information Protection Act (PIPEDA)**
-  - Blocks the sharing of sensitive data (e.g., SIN, credit card numbers) with external users.
+  - **Canada Personal Information Protection Act (PIPEDA)** policy was turned on.
+  - Blocked the sharing of sensitive data (e.g., SIN, credit card numbers) with external users.
 
 <img width="1123" height="603" alt="Image" src="https://github.com/user-attachments/assets/f3d40ab8-3b90-415a-8e3a-abf7dbe28c14" />
 <img width="1301" height="722" alt="Image" src="https://github.com/user-attachments/assets/32c6646f-4ef2-43ef-9822-1d869061fb51" />
