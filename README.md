@@ -63,8 +63,12 @@ MFA was turned on for all users and switched to *enable (legacy mode)* from *Mic
 
 ---
 
-#### Added contracts information to user profiles (e.g., *Mohammad Abdur Rakib*).
+#### Added contracts information to user profiles named `Mohammad Abdur Rakib`:
 
+<img width="1194" height="524" alt="Image" src="https://github.com/user-attachments/assets/eca89669-ff2b-4f06-8ef9-9498790205b4" />
+<img width="1360" height="720" alt="Image" src="https://github.com/user-attachments/assets/df59f877-bd09-4887-8921-4f30bae685eb" />
+<img width="1289" height="516" alt="Image" src="https://github.com/user-attachments/assets/fbf70dd6-b794-40cc-8536-376d5330766d" />
+<img width="1356" height="527" alt="Image" src="https://github.com/user-attachments/assets/e45cb8f5-812f-4cc8-a43d-e49aaa504d3d" />
 
 ---
 
@@ -86,10 +90,29 @@ Navigated through the **MS365 admin center** to *Active teams & groups* and crea
 <img width="1548" height="726" alt="Image" src="https://github.com/user-attachments/assets/536657dc-e438-4506-bb43-d0578468af9e" />
 
 ---
-- Updated group email to `it@mar101.onmicrosoft.com`.
-- Deleted and restored the default **All Company** group.
+
+#### Updated group email to `it@mar101.onmicrosoft.com`:
+
+<img width="1288" height="701" alt="Image" src="https://github.com/user-attachments/assets/2c5137e6-be6b-4f9b-a6d3-e7bd2169ac63" />
+<img width="1283" height="362" alt="Image" src="https://github.com/user-attachments/assets/af69446a-db4b-46d1-ae69-b2f52469c8e4" />
+<img width="1064" height="455" alt="Image" src="https://github.com/user-attachments/assets/ac16fc9f-3e1d-48aa-910e-e872fd6119b4" />
+<img width="1229" height="568" alt="Image" src="https://github.com/user-attachments/assets/b2b90fc1-7a93-4691-b5ef-c323c20f631f" />
 
 ---
+
+#### Deleted and restored the default **All Company** group:
+
+<img width="1221" height="743" alt="Image" src="https://github.com/user-attachments/assets/157b9a81-04ec-48ed-a714-a13f4801c851" />
+<img width="1066" height="722" alt="Image" src="https://github.com/user-attachments/assets/7b140c15-12f2-4686-b86e-d8cef764c2ea" />
+<img width="1140" height="577" alt="Image" src="https://github.com/user-attachments/assets/164bafb7-a31a-49b2-b487-b4706b57e1dd" />
+<img width="1360" height="686" alt="Image" src="https://github.com/user-attachments/assets/5e9f1296-151a-40a7-9804-72209c323c0c" />
+<img width="1360" height="588" alt="Image" src="https://github.com/user-attachments/assets/e5cb6bcd-c4f7-467c-b12e-677d482ff259" />
+<img width="1229" height="606" alt="Image" src="https://github.com/user-attachments/assets/517536c6-4f3c-4276-8f7d-fb4e4ff647c7" />
+<img width="1252" height="527" alt="Image" src="https://github.com/user-attachments/assets/bb9a42f9-d952-420b-88a7-bc017af6f5a7" />
+<img width="1360" height="733" alt="Image" src="https://github.com/user-attachments/assets/1b6de0c7-506b-48cf-80cc-5f2fc3d33f45" />
+
+---
+
 ### 3. Mailbox Configuration
 - Created a **shared mailbox** `itsupport@mar101.onmicrosoft.com`.
 - Added members (`abc xyz`, `helpdesk`) to the shared mailbox.
