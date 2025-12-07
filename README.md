@@ -224,9 +224,29 @@ Navigated through the **SharePoint admin center** to change the advanced **Share
 ---
 
 ### 5. Security & Compliance
-- Created a **Data Loss Prevention (DLP) policy**:  
-  - **Canada Personal Information Protection Act (PIPEDA)**  
-  - Blocks sharing of sensitive data (e.g., SIN, credit card numbers) with external users.
+
+#### Created a **Data Loss Prevention (DLP) policy**:  
+  - **Canada Personal Information Protection Act (PIPEDA)**
+  - Blocks the sharing of sensitive data (e.g., SIN, credit card numbers) with external users.
+
+<img width="1123" height="603" alt="Image" src="https://github.com/user-attachments/assets/f3d40ab8-3b90-415a-8e3a-abf7dbe28c14" />
+<img width="1301" height="722" alt="Image" src="https://github.com/user-attachments/assets/32c6646f-4ef2-43ef-9822-1d869061fb51" />
+<img width="1264" height="767" alt="Image" src="https://github.com/user-attachments/assets/f2965eec-7b70-454d-b21c-ada07ee8cd7c" />
+<img width="1360" height="614" alt="Image" src="https://github.com/user-attachments/assets/920deadd-178e-423c-a89f-1ff5a7f3b28a" />
+<img width="1299" height="731" alt="Image" src="https://github.com/user-attachments/assets/308b99b8-36ea-48c0-ae72-0116dfadb465" />
+<img width="1294" height="761" alt="Image" src="https://github.com/user-attachments/assets/36f1b9ea-2d79-4eec-81aa-b49a96069a5e" />
+<img width="1304" height="752" alt="Image" src="https://github.com/user-attachments/assets/58d70ece-d577-4b7b-ad4e-501b0b46311d" />
+<img width="1354" height="762" alt="Image" src="https://github.com/user-attachments/assets/89b9ca10-4afd-45de-bfc3-72eeb00037dc" />
+<img width="1326" height="763" alt="Image" src="https://github.com/user-attachments/assets/6a7f1dc1-b166-431b-a2be-69cfddd10bb4" />
+<img width="1360" height="762" alt="Image" src="https://github.com/user-attachments/assets/ffb512c8-f075-4b0a-9d19-5163af816004" />
+<img width="1360" height="757" alt="Image" src="https://github.com/user-attachments/assets/b47107f8-818f-4f2b-a03d-4259b7ff5644" />
+<img width="1360" height="767" alt="Image" src="https://github.com/user-attachments/assets/2df24fc3-4e11-4ebb-95eb-596cf86ca2b9" />
+<img width="1360" height="764" alt="Image" src="https://github.com/user-attachments/assets/5bb875cb-b867-4492-853b-508e68afc841" />
+<img width="1360" height="768" alt="Image" src="https://github.com/user-attachments/assets/6f3ede34-a65a-4d17-bc52-7e4feff0502a" />
+<img width="1360" height="757" alt="Image" src="https://github.com/user-attachments/assets/33ffd00f-31dc-4b47-8a66-e7fc410b48be" />
+<img width="1360" height="764" alt="Image" src="https://github.com/user-attachments/assets/b7448f09-99b6-4566-bd9d-fe80ac03f488" />
+<img width="1360" height="766" alt="Image" src="https://github.com/user-attachments/assets/c31a600e-c499-4c54-8eda-f7cf3f64b172" />
+<img width="1360" height="762" alt="Image" src="https://github.com/user-attachments/assets/bfc6093d-382f-48d5-bb1b-d9d663dd11ca" />
 
 ---
 
