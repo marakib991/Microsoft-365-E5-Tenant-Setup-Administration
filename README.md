@@ -114,8 +114,31 @@ Navigated through the **MS365 admin center** to *Active teams & groups* and crea
 ---
 
 ### 3. Mailbox Configuration
-- Created a **shared mailbox** `itsupport@mar101.onmicrosoft.com`.
-- Added members (`abc xyz`, `helpdesk`) to the shared mailbox.
+
+#### Created a **shared mailbox**:
+
+As `itsupport@mar101.onmicrosoft.com` email has already been used for the `IT group` as an alias email, deleted the alias and created a **shared mailbox** with `itsupport@mar101.onmicrosoft.com` email address.
+
+<img width="1360" height="657" alt="Image" src="https://github.com/user-attachments/assets/8bbdcd13-9472-424d-994f-cb35402dd44a" />
+<img width="1275" height="513" alt="Image" src="https://github.com/user-attachments/assets/9a89bb70-a0ea-45c4-a345-f2c72777c5fc" />
+<img width="1198" height="496" alt="Image" src="https://github.com/user-attachments/assets/e135f314-d684-46db-a37e-51ea3ba1b96d" />
+<img width="1284" height="608" alt="Image" src="https://github.com/user-attachments/assets/930d9121-6288-4b3b-8c37-89078c3cf182" />
+<img width="1360" height="597" alt="Image" src="https://github.com/user-attachments/assets/ccd5b2fe-19b5-45f4-92fb-dc0c5d16613c" />
+<img width="1315" height="575" alt="Image" src="https://github.com/user-attachments/assets/2133fbc0-2246-4e16-ac63-94b7eab38fa1" />
+<img width="1303" height="488" alt="Image" src="https://github.com/user-attachments/assets/1dcb5c03-f03b-4bd1-ab77-8a0b81991abe" />
+<img width="1299" height="506" alt="Image" src="https://github.com/user-attachments/assets/82c2d0e4-15cd-4860-a7c8-ed36331830a7" />
+
+---
+
+#### Added members (`abc xyz`, `helpdesk`) to the shared mailbox:
+
+<img width="1293" height="498" alt="Image" src="https://github.com/user-attachments/assets/25053e68-9fb9-45e5-adee-a0f33c773d7f" />
+<img width="1253" height="426" alt="Image" src="https://github.com/user-attachments/assets/47f58a62-5c2b-48a1-9860-9d47d605500a" />
+<img width="1303" height="760" alt="Image" src="https://github.com/user-attachments/assets/5b97baf9-0ec3-40b0-8e53-712332ec2f16" />
+<img width="1228" height="546" alt="Image" src="https://github.com/user-attachments/assets/819f249e-a38e-4eb1-bcc8-e3632c30efb6" />
+
+---
+
 - Configured **email forwarding** for `ceo@mar101.onmicrosoft.com`.
 - Set **automatic replies** with different messages for internal vs. external personnel.
 - Adjusted **Sent Items settings**:
